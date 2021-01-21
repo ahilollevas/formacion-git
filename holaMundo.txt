@@ -1,2 +1,0 @@
-Hola mundo. Esto es una prueba para GIT
-Version numero 2
